@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Conda/Python virtual environment folders
+# (Just in case you ever create one inside the project)
+.venv/
+venv/
+env/
